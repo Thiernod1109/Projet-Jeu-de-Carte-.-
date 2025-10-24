@@ -1,0 +1,14 @@
+C:\Users\waydi\RiderProjects\Travail1_bon\Travail1-bon\Travail1-bon\bin\Debug\net9.0\Travail1-bon.exe
+C:\Users\waydi\RiderProjects\Travail1_bon\Travail1-bon\Travail1-bon\bin\Debug\net9.0\Travail1-bon.deps.json
+C:\Users\waydi\RiderProjects\Travail1_bon\Travail1-bon\Travail1-bon\bin\Debug\net9.0\Travail1-bon.runtimeconfig.json
+C:\Users\waydi\RiderProjects\Travail1_bon\Travail1-bon\Travail1-bon\bin\Debug\net9.0\Travail1-bon.dll
+C:\Users\waydi\RiderProjects\Travail1_bon\Travail1-bon\Travail1-bon\bin\Debug\net9.0\Travail1-bon.pdb
+C:\Users\waydi\RiderProjects\Travail1_bon\Travail1-bon\Travail1-bon\obj\Debug\net9.0\Travail1-bon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\waydi\RiderProjects\Travail1_bon\Travail1-bon\Travail1-bon\obj\Debug\net9.0\Travail1-bon.AssemblyInfoInputs.cache
+C:\Users\waydi\RiderProjects\Travail1_bon\Travail1-bon\Travail1-bon\obj\Debug\net9.0\Travail1-bon.AssemblyInfo.cs
+C:\Users\waydi\RiderProjects\Travail1_bon\Travail1-bon\Travail1-bon\obj\Debug\net9.0\Travail1-bon.csproj.CoreCompileInputs.cache
+C:\Users\waydi\RiderProjects\Travail1_bon\Travail1-bon\Travail1-bon\obj\Debug\net9.0\Travail1-bon.dll
+C:\Users\waydi\RiderProjects\Travail1_bon\Travail1-bon\Travail1-bon\obj\Debug\net9.0\refint\Travail1-bon.dll
+C:\Users\waydi\RiderProjects\Travail1_bon\Travail1-bon\Travail1-bon\obj\Debug\net9.0\Travail1-bon.pdb
+C:\Users\waydi\RiderProjects\Travail1_bon\Travail1-bon\Travail1-bon\obj\Debug\net9.0\Travail1-bon.genruntimeconfig.cache
+C:\Users\waydi\RiderProjects\Travail1_bon\Travail1-bon\Travail1-bon\obj\Debug\net9.0\ref\Travail1-bon.dll
